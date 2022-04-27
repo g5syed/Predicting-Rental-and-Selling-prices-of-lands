@@ -1,2 +1,5 @@
 # Predicting-Rental-and-Selling-prices-of-lands
-Freelance Project; Train a model to predict sale and rental price of houses
+Trained an XGB Regressor to predict price of houses using following features
+
+Features : timestamp	villa	size	latitude	longitude	asking	rental
+Target : price
